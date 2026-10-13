@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath",
+  "description": "Domain and role-based career development platform for college students and fresh graduates, featuring skill gap analysis, personalized roadmaps, curated resources, certifications, projects, resume builder, and job/internship opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
